@@ -1,5 +1,5 @@
 # pythonic-garage-band
 ---
-## Lab: Class 4 - File IO and Exceptions
+## Lab: Class 4 - Garage Band with OOP
 ---
 **- Esmail Jawabreh**
